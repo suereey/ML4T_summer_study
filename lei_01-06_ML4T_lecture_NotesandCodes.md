@@ -116,6 +116,8 @@ if __name__ == "__main__":
     - Correlation is how good the points fit the line
     - Correlation = 1 (highly correlated)
     - Correlation = 0 (not correlated)
+- Scatter plot example
+![scatterplot](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/screenshot/06_ScatterPlot.PNG)
 - Scatter plot code implementation
 ```
 import pandas as pd
