@@ -1,4 +1,4 @@
-# 00-00 Introduction
+# 00-00: Introduction
 ## Three parts to the course
 1. Manipulating financial data in python
 2. Computational investing
@@ -9,7 +9,7 @@
 2. What Hedge Funds Really Do
 3. Machine Learning by Mitchell
 
-# Reading and plottign stock data 01-01
+# 01-01: Reading and plottign stock data
 ## CSV file of stock data
 which fields would you expect to see in a csv file of stock data? 
 

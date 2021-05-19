@@ -1,4 +1,4 @@
-# 01-03 The power of Numpy
+# 01-03: The power of Numpy
 ## Notes on notations
 - Examples for array notation
 ![notation_01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/screenshot/03_numpyarray_notation_01.PNG)
