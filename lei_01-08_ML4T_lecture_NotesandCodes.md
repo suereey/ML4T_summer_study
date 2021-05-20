@@ -20,7 +20,8 @@
     search forthe mimimum
 
 ### Figure example
-Lei insert
+![minimization](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/screenshot/08_minimizationexample.PNG)
+
 ### Code implementation, Minimize an objective function using SciPy.
 ```
 import pandas as pd
@@ -53,6 +54,8 @@ def test_run():
 if __name__ == "__main__":
 	test_run()
 ```
-### case that are hard to be optimized
 
-- 
+### Case hard to find minimize
+![hard_optimize](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/screenshot/08_HardoptimizationCase.PNG)
+## Convex problem
+
