@@ -6,8 +6,10 @@
 - regression: numerical prediction
 - learning: train with data
 - Different methods:
-    - Linear regression (parametric)
-    - Knearest neighbor (KNN) (instance based)
+    - Linear regression (parametric: *Slow training but fast inquiry*)
+        ![parametric](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/07_Regression_Parametric.PNG)
+    - Knearest neighbor (KNN: *Fast training but slow inquiry*) (instance based)
+        ![KNN](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/08_Regression_KNN.PNG)
     - Decision trees
     - Decision forests
 
@@ -37,3 +39,4 @@ So later in this class will learn: Policy learning RL.
 ## Summary: Future class we will focus on 
 
 ![Future](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/06_FutureClassFocus.PNG)
+
