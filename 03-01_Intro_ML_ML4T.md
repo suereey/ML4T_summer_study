@@ -17,6 +17,11 @@ Note: Difference between parametric and instance based method?
 
 - In parametric, we take the data and merge around to come up with a few parameters, and then THROW data away.
 - In KNN, we keep all the historical data, the X and Y pairs, when it's time to make a prediction, we consult that data.
+## Example of Code for Regression:
+- Learning API
+    ![API](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/10_LearningAPI.PNG)
+- Example code
+    ![CODE](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/10_Code-linearregression.PNG)
 
 ## Stock data for ML
 - Historical data:
@@ -37,6 +42,5 @@ Note: Difference between parametric and instance based method?
 So later in this class will learn: Policy learning RL.
 
 ## Summary: Future class we will focus on 
-
 ![Future](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/06_FutureClassFocus.PNG)
 
