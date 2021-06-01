@@ -22,7 +22,8 @@
 ## Overfitting
 - Overfitting: 
     - Polynomial model: In sample error decreasing but out of sample error increasing.
-        ![overfitting]()
+        ![overfitting](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/14_overfitting.PNG)
     - KNN: k is how many data you take to make the prediction.
-        ![KNNoverfitting]()
-
+        ![KNNoverfitting](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/15_KNNOverfitting.PNG)
+## Compare Regression and KNN
+![COMPARE](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/16_assesslearningalgorithm.PNG)
