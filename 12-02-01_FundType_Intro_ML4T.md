@@ -53,5 +53,8 @@
     - Metrics: How to measure how well the funds match the goal
         - Cumulative return = (val[-1]/val[0])-1
         - Volatility = daily_rets.std()
-        - Risk/Reward
-
+        - Risk/Reward = *sharpe ratio*
+- Computing inside a hedge fund
+    ![computing_01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/07_computing.PNG)
+    ![computing_02](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/08_computing.PNG)
+    ![computing_03](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/09_computing.PNG)
