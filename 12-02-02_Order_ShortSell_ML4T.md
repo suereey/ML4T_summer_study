@@ -32,3 +32,8 @@
         - Stop gain
         - Trailing stop
         - Sell short: take a negative position on a stock. You sell a stock short if you believe its price is going to go down. Keep in mind here, we are selling stock we don't even own. (Broker can do that)
+- Mechanics of shortselling: Entry
+    - If the price goes down, you gain money
+    - If the price goes up, you loss money
+    ![short01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/15_short.PNG)
+    ![short02](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/16_short.PNG)
