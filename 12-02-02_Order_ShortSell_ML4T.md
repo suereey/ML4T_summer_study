@@ -58,9 +58,10 @@
             - pay 1 year from now, i = 1.
         ![worth_01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/18_worthofadollar.PNG)
         ![worth_02](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/19_worthofadollar.PNG)
+        ![worth_03](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/20_worthofadollar.PNG)
 
     - Book value: 
-    ![bookvalue]()
+    ![bookvalue](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/21_bookvalue.PNG)
     - Market capitalization: __Market cap = #shares*price__
 
 ## Why informaiton affects stock price
