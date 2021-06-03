@@ -37,3 +37,30 @@
     - If the price goes up, you loss money
     ![short01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/15_short.PNG)
     ![short02](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/16_short.PNG)
+
+# What is company worth
+## Company value
+- The true value of company
+    - Intrinsic value: based on if you own a share of stock, how many dividen you will get in the future.
+    - Book value: based on assets that the company owns
+    - Market cap: based on the value of stock on market, how many shares are outstanding
+    ![value_01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/17_companyvalue.PNG)
+- The value of a future dollar
+    - intrinsic value:
+        - P.V. (present value)
+        - F.V. (future value)
+        - IR (interest rate)
+            - IR also relates to how risky the company is.
+            - IR is related to __Discount Rate__
+                - High Discount Rate: trust company less and more risky
+        - i: how far in the future will this payment be delivered. 
+            - pay now, i = 0, P.V. = F.V.
+            - pay 1 year from now, i = 1.
+        ![worth_01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/18_worthofadollar.PNG)
+        ![worth_02](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/19_worthofadollar.PNG)
+
+    - Book value: 
+    ![bookvalue]()
+    - Market capitalization: __Market cap = #shares*price__
+
+## Why informaiton affects stock price
