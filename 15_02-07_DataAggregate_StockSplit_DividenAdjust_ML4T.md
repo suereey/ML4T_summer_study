@@ -24,7 +24,9 @@ For instance, say each stock unit is divided into two units, then the value of e
 
 ## Dividens
 - Dividens
+![dividen_1](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/51_dividen.PNG)
 - Adjusting for dividens. The adjusted closing always equals to actual closing. Then based on the closing to adjust the previous value. In this case, different closing time you are looking at (2015 or 2012) may cause a different adjusted value (at 2010).
-![adjustdividen]()
+![adjustdividen](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/52_dividen.PNG)
 
 ## Survivor bias
+![survivorbias](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/53_survivorbias.PNG)
