@@ -30,7 +30,7 @@
     ![BBand_example](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/45_bollingerbands.PNG)
 - Normalization
     - normalized the indicator to 0 - 1
-    ![normalization]()
+    ![normalization](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/46_normalization.PNG)
 
 - **Wrap up of Technical Analysis**
     - **Heruistics** (represent someone's interpretation or hunch of how a statistical apporach to previous prcies and volume might suggest future price movement)

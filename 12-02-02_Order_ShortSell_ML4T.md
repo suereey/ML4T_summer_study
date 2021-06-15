@@ -65,3 +65,10 @@
     - Market capitalization: __Market cap = #shares*price__
 
 ## Why informaiton affects stock price
+![info](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/22_info.PNG)
+## Would you buy the stock?
+![wouldyoubuy_01](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/21_woul%20you%20buy.PNG)
+![wouldyoubuy_02](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/23_woul%20you%20buy.PNG)
+
+- normally book value > market cap. people will immedietly buy it if book value is smaller.
+- market cap is affect by intrinsic value.
