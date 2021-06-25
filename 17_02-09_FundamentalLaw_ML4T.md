@@ -37,6 +37,11 @@
     ![realworldparameter](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/61_realworldlaw_IR.PNG))
     !![realworldparameter_2](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/61_realworldlaw_other.PNG)
     
+## The fundamental law
+![fundamentallaw](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/62_law.PNG)
+![fundamentallaw_2](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/02_screenshot/63_law.PNG)
+
+
 
 
     
