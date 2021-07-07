@@ -16,4 +16,10 @@
     - Under the condition of **Unkown trasation and reward**:
         - Model based
         - Model free **Q-Learning**
-        -![model1]() 
+        -![model1](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/28_Model_01.PNG) 
+    - What is optimize?
+        - The 0.95 value means $1 worth $0.95 after take a step.
+        - ![optimize](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/29_optimize.PNG)
+        -![example](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/30_optimize.PNG)
+## RL Summary
+![RLSummary](https://github.com/suereey/ML4T_summer_study/blob/main/03_screenshot/31_RLSummary.PNG)
