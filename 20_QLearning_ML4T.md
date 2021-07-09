@@ -17,7 +17,7 @@
 ## Two finer points
 - Success depends on exploration
 - Choose random action with prob C.
-
+- ![twofinderpoints](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/35_FinerPoints%20(3).PNG)
 # How to use Q-Learning solve stock trade problm. 
 ## In order to do that, we need to define:
 - Actions
@@ -27,8 +27,14 @@
 - Buy
 - Sell
 - Nohting
-- ![Action]()
+- ![Action](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/35_FinerPoints%20(4).PNG)
 ## The trading problem: Rewards
 - Daily return better than cumulative return: A reward at each step allows the learning agent get feedback on each individual action it takes (including doing nothing).
+- ![Rewards]()
+## The trading problem: State
+- Which one can be state?
+    - ![state]()
+- Creating the state
+    - ![createstate]()
 
 
