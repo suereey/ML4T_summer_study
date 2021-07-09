@@ -42,6 +42,6 @@
     ![discretizing](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/40_Discretizing.PNG)
 
 # Summary of Q-learner
-![summary]()
+![summary](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/41_Summary.PNG)
 
 
