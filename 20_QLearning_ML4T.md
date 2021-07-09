@@ -35,10 +35,13 @@
 - Which one can be state?
     - ![state](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/38_State.PNG)
 - Creating the state
-    - ![createstate]()
+    - ![createstate](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/39_createstate.PNG)
 - How to do **Discretizing**
     - We want to transfer to value between 0-9. Hence steps = 10.
     - Deiscretizing:
-    ![discretizing]()
+    ![discretizing](https://raw.githubusercontent.com/suereey/ML4T_summer_study/main/03_screenshot/40_Discretizing.PNG)
+
+# Summary of Q-learner
+![summary]()
 
 
